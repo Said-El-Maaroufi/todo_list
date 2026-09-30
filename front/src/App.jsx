@@ -1,11 +1,11 @@
 import './App.css'
-import Note from './note'
+import Create  from './task/create'
 
 function App() {
 
   return (
     <>
-    <Note/>
+    <Create/>
     </>
   )
 }
